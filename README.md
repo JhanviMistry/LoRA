@@ -1,7 +1,2 @@
-# LoRA
-# LoRA
-# LoRA
-# LoRA
-# LoRA
-# LoRA
-# LoRA
+# LoRA -> Low Rank Adaptation 
+
